@@ -33,5 +33,5 @@ Algoritmo pares
 			Leer op
 		Fin Si
 	Hasta Que op == 2
-	Escribir "Adios"
+	Escribir "Adios :)"
 FinAlgoritmo
