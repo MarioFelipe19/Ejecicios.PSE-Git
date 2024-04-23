@@ -1,12 +1,16 @@
 Algoritmo numeros
-	Definir nu,r Como real
-	Definir i Como Entero
+	Definir n Como Entero
+	Escribir "Ingrese el numero entero: "
+	Leer n
 	
-	Escribir "Escriba numero y 0 para terminar: "
-	Repetir 
-		Leer nu
-		r = r + nu
-		Leer i
-	Hasta Que i == 0
-	Escribir "El resultado es: ",r
+	Si n >= 1 Entonces
+		Escribir "Es positivo"
+	Fin Si
+	Si n < 0 Entonces
+		Escribir "Es negativo"	
+	FinSi
+	Si n == 0 Entonces
+		Escribir "Es cero"	
+	FinSi	
+	
 FinAlgoritmo
