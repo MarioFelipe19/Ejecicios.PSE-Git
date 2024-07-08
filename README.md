@@ -1,7 +1,7 @@
 # PSE-Campus
 
 
-Este proyecto es un compilado de informacion sobre ejercicios de PSint .
+Este proyecto es un compilado de informacion sobre ejercicios de PSint .✨
 
 ## Tabla de Contenidos
 
@@ -13,7 +13,7 @@ Este proyecto es un compilado de informacion sobre ejercicios de PSint .
 
 ## Introducción
 
-Con este repositorio busco dar ejercicios de PSint para que cualquiera pueda practicar y mejorar sus conocimientos.
+Con este repositorio busco dar ejercicios de PSint para que cualquiera pueda practicar y mejorar sus conocimientos.🔧
 
 ## Instalación
 
@@ -41,11 +41,11 @@ source env/bin/activate
 pip install -r requirements.txt
 ```
 ## Tecnologias Utilizadas
-PSint: Para la creacion del codigo a ejecutar. psint: Para el entorno de desarrollo.
+PSint: Para la creacion del codigo a ejecutar. psint: Para el entorno de desarrollo.🔨
 
 
 ## Contribuir
-Haga un fork del repositorio. Cree una nueva rama (git checkout -b feature-nueva-funcionalidad). Haga commit de sus cambios (git commit -m 'Añadir nueva funcionalidad'). Haga push a la rama (git push origin feature-nueva-funcionalidad). Abra una solicitud de pull en GitHub.
+Haga un fork del repositorio. Cree una nueva rama (git checkout -b feature-nueva-funcionalidad). Haga commit de sus cambios (git commit -m 'Añadir nueva funcionalidad'). Haga push a la rama (git push origin feature-nueva-funcionalidad). Abra una solicitud de pull en GitHub.🔧
 
  ## Contacto
-puede escribirme a mi correo personal felipeparra257@gmail.com
+puede escribirme a mi correo personal felipeparra257@gmail.com🌐
